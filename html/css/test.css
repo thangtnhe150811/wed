@@ -1,0 +1,49 @@
+h1{
+	background: #B3B3B3;
+	font-size: 150%;
+	padding: 15px;
+}
+
+header{
+	background: #666666;
+	text-align: center;
+	padding: 15px;
+}
+
+body{
+	font-size: 150%;
+	display: inline-block;
+	background-color: yellow;
+	
+}
+
+h1{
+	color: #FFFFFF;
+}
+
+section{
+	width: 30%;
+	display: inline-block;
+	font-size: 100%;
+	margin: 2px;
+	padding: 5px;
+	float: left;
+	border: solid;
+}
+
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Time New Roman", serif;
+}
+
+footer{
+	clear: both;
+
+}
+img{
+	width: 100px;
+}
+p{
+	font-size: 75%;
+}
